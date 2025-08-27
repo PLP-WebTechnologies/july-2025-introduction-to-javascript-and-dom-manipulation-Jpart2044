@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+#dynamicContent div {
+    margin: 5px 0;
+    padding: 5px;
+    background-color: #f0f0f0;
+}
+
+/* Highlight background toggle */
+.highlight {
+    background-color: #ffeb3b;
+}
+
+/* Styles for numbers list */
+.number-item {
+    cursor: pointer;
+    padding: 2px 5px;
+    margin: 2px 0;
+}
+
+.number-item:hover {
+    background-color: #d1ffd1;
+}
